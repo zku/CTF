@@ -10,7 +10,7 @@ coming soon..
 
 > testing syntax highlighting etc.
 
-{% highlight ida %}
+{% highlight nasm %}
 .text:00401000   mov eax, 0h
 .text:00401000   mov eax, 0h
 .text:00401000   mov eax, 0h
