@@ -1,11 +1,9 @@
 ---
 layout: post
-title: sample
+title: VolgaCTF 2014 - Reversing 400 write-up
 categories:
 - ctf
 - reversing
-- windows
-- algorithms
 ---
 
-Coming soon(ish)
+coming soon..
