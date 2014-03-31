@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VolgaCTF 2014 - Reversing 400 write-up
+title: VolgaCTF 2014 - Reversing 400
 categories:
 - ctf
 - reversing
