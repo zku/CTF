@@ -143,6 +143,11 @@ nav hr {
   /*padding: 0 .2em;*/
 }
 
+#post p code {
+  color: #F82929;
+  padding: 2px;
+}
+
 #post pre code {
   border: none;
 }
