@@ -173,7 +173,7 @@ This loop effectively emulates an 11-byte integral type stored at `esi` (the `co
 counter = 0
 while True:
   increment_counter_by_one()
-  if counter & 0xFF00000000000000000000 == 0:
+  if counter & 0xFF00000000000000000000 != 0:
     break
   # Do something: we don't know yet.
 # Do something else: also unknown.
