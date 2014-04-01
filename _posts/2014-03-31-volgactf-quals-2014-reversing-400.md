@@ -376,4 +376,4 @@ def compute_flag_slightly_faster():
 print('The flag is: %x' % compute_flag_slightly_faster())
 {% endhighlight %}
 
-Which gives the flag **`6e300fbb83dbfe3900`**, hooray!
+Which gives the flag **`6e300fbb83dbfe3900`** and 400 points for team sku! Hooray!
